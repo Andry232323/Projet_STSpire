@@ -1,2 +1,3 @@
 # Projet_STSpire
-Higschool project
+Highschool project
+Clone of the famous game Slay the spire 
